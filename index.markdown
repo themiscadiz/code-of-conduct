@@ -5,6 +5,7 @@
 layout: homepage
 title: ITP/IMA Code of Conduct
 author: "Themis"
+permalink: /index
 
 header-text-h3: "Welcome to the ITP/IMA"
 header-text-h1: "Code of Conduct"
