@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: homepage
 title: ITP/IMA Code of Conduct
 author: "Themis"
-permalink: /code-of-conduct/code-of-conduct
+permalink: /code-of-conduct
 
 header-text-h3: "Welcome to the ITP/IMA"
 header-text-h1: "Code of Conduct"
