@@ -1,7 +1,7 @@
 ---
 layout: document-code-of-conduct
 title: Code of Conduct
-permalink: community_statement
+permalink: /community_statement
 ---
 
 ## <a name="community_statement">🌎 Community Statement</a>
