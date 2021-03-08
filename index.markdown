@@ -35,3 +35,6 @@ The CoC is open to revisions, clarifications, and reconsideration. For more info
 
 Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the <mark><a href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/glossary.md">Glossary</a></mark> for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
+### This project follows the all-contributors specification. 
+### Contributions of any kind welcome!
+
