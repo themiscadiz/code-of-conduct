@@ -369,7 +369,14 @@ footer{
 .logo_image { width: 200px;}
 @media screen and (max-width: 800px) { .footer { flex-direction:column;}}
 
-/* community */
+/* COMMUNITY */
 .minimal-page-style{background-color: blueviolet;}
 img{width: 100%;}
+
+.contributors-list{
+    display: flex;
+    position: relative;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
 
