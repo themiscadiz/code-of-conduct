@@ -1,0 +1,21 @@
+---
+layout: header-footer
+---
+
+<div class="minimal-page-style">
+
+    <header class="community-header"></header>
+
+    <div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible"
+            class="lbl-toggle">View Details</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p class="last-update">{{ page.last-update }}</p>
+                <p class="contributors">{{ page.contributors }}</p>
+            </div>
+        </div>
+    </div>
+
+    {{ content }}
+
+</div>
