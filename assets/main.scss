@@ -370,7 +370,15 @@ footer{
 @media screen and (max-width: 800px) { .footer { flex-direction:column;}}
 
 /* COMMUNITY */
-.minimal-page-style{background-color: blueviolet;}
+.minimal-page-style{
+    // background-color: blueviolet;
+}
+#community-header{
+    background-color: goldenrod;
+    margin: 1rem 0rem;
+    box-shadow: -10px 10px  rgba(0,0,0, 7);
+}
+
 img{width: 100%;}
 
 .contributors-list{
