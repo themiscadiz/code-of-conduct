@@ -7,12 +7,6 @@ last-update: Dec 11, 2020
 contributors: ThemisTest
 ---
 
-## <a name="glossary">📇 Glossary</a>
-
-### A full glossary of terminology can be found from [NYU's Office for Global Inclusion and Diversity](https://www.nyu.edu/life/global-inclusion-and-diversity/learning-and-development/toolkits/glossary.html). The terms below are a work-in-progress list of terms specifically in this document with definitions written by the ITP/IMA community.
-
-<br>
-
 ## Terms
 
 <br>
