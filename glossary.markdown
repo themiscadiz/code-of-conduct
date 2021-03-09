@@ -3,7 +3,9 @@ layout: glossary
 title: Code of Conduct
 permalink: /glossary
 
-last-update: Dec 11, 2020
+last-update: Dec 11, 2020.  
+contributors: [Report and Issue](https://allcontributors.org/docs/en/emoji-key)
+
 # contributors: ThemisTest
 ---
 
