@@ -4,7 +4,7 @@ title: Code of Conduct
 permalink: /glossary
 
 last-update: Dec 11, 2020
-contributors: ThemisTest
+# contributors: ThemisTest
 ---
 
 ## Terms
