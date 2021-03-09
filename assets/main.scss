@@ -336,16 +336,14 @@ hr{border-radius: 5px; border: 1px dashed #0BA687;}
       // box-shadow: -10px 10px  #0BA687;
     // padding: 2rem; margin-bottom: 5rem;
 
-    // width: 100px;
-	// height: 50px;
-    transform: skew(-10deg);
+    // transform: skew(-10deg);
 }
 
-.eliminate-skew{
-    background-color: #52daa6;
-    margin:1rem;
-    transform: skew(none);
-}
+// .eliminate-skew{
+//     background-color: #52daa6;
+//     margin:1rem;
+//     transform: skew(none);
+// }
 .other-groups-section{position: relative; display: flex; justify-content: space-evenly; margin: 20px 0px;}
 .groups{width: 250px; padding: 20px; margin: 0px 20px;}
 .groups:hover{border-radius: 5px; box-shadow: -10px 10px  #798AF7; transition: .1s; background-color: honeydew;}
