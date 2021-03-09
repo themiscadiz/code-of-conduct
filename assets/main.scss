@@ -392,19 +392,23 @@ img{width: 100%;}
 /* Glossary*/
 input[type='checkbox'] { display: none; } 
 .wrap-collabsible { margin: 1.2rem 0; } 
-.lbl-toggle { display: block; 
-    font-weight: bold; 
-    font-family: monospace; 
-    font-size: 1.2rem; 
-    text-transform: uppercase; 
-    text-align: center; 
+.lbl-toggle { 
+    display: block; 
+    // font-weight: bold; 
+    // font-family: monospace; 
+    // font-size: 1.2rem; 
+    // text-transform: uppercase; 
+    // text-align: center; 
     padding: 1rem; 
-    color: #DDD; 
-    background: #0069ff; 
+    color: #111; 
+    background: #FFFFFF; 
     cursor: pointer; 
     border-radius: 7px; 
+    border: 2px dashed #0BA687;
     transition: all 0.25s ease-out; } 
-    .lbl-toggle:hover { color: #FFF; } 
+    .lbl-toggle:hover { 
+        // color: #FFF;
+     } 
     .lbl-toggle::before { content: ' '; 
     display: inline-block; 
     border-top: 5px solid transparent; 
@@ -422,19 +426,27 @@ input[type='checkbox'] { display: none; }
             .toggle:checked + .lbl-toggle + .collapsible-content 
             { max-height: 350px; } .toggle:checked+.lbl-toggle { 
                 border-bottom-right-radius: 0; border-bottom-left-radius: 0; } 
-                .collapsible-content .content-inner { background: rgba(0, 105, 255, .2); 
-                    border-bottom: 1px solid rgba(0, 105, 255, .45); 
+                .collapsible-content .content-inner { 
+                    background: #FEFEFA;
+                    border: 1px dashed #0BA687;
+                    box-sizing: border-box;
+                    box-shadow: 0px 5px 12px 5px rgba(242, 234, 223, 0.5);
+                    border-radius: 5px;
+
+                    // background: rgba(0, 105, 255, .2); 
+                    // border-bottom: 1px solid rgba(0, 105, 255, .45); 
+
                     border-bottom-left-radius: 7px; 
                     border-bottom-right-radius: 7px; 
                     padding: .5rem 1rem; } .collapsible-content p { margin-bottom: 0; }
-                    
+
 /* GENERAL PAGES */
 
-.community-header{
+.page-header{
     background-color: goldenrod;
     height: 200px;
     width: 100%;
-    margin: 1rem 0rem;
+    margin: 2rem 1rem;
     box-shadow: -10px 10px  rgba(0,0,0, 7);
 }
 
