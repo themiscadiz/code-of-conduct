@@ -310,8 +310,9 @@ box-shadow: -10px 10px  #0BA687;
 .home-button a{text-decoration: none;}
 
 .home-button:hover{ box-shadow: -5px 5px 10px  rgb(231, 231, 231); 
+    background: rgb(168, 245, 196);
     // box-shadow: 0px 0px  #FFFFFF;
-     transition: .50s;}
+     transition: .20s;}
 
 .home-button-text{text-align: center; padding: 1.5rem 4rem;}
 
